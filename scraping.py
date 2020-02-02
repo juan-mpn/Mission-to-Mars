@@ -4,6 +4,7 @@
 from splinter import Browser
 from bs4 import BeautifulSoup
 import pandas as pd
+import datetime as dt 
 # Define where is the chromedriver
 executable_path = {"executable_path": "chromedriver"}
 
@@ -15,13 +16,15 @@ def scrape_all():
     browser = Browser('chrome', **executable_path)
 #    browser = Browser("chrome", executable_path="chromedriver", headless=True)        
     news_title, news_paragraph = mars_news(browser)
+
+    # Run all scraping functions and store results in dictionary
     # Run all scraping functions and store results in dictionary
     data = {
-      "news_title": news_title,
-      "news_paragraph": news_paragraph,
-      "featured_image": featured_image(browser),
-      "facts": mars_facts(),
-      "last_modified": dt.datetime.now()
+        "news_title": news_title,
+        "news_paragraph": news_paragraph,
+        "featured_image": featured_image(browser),
+        "facts": mars_facts(),
+        "last_modified": dt.datetime.now()
     }
     browser.quit()
     return(data)
@@ -82,7 +85,7 @@ def mars_facts():
     try:
         df = pd.read_html('http://space-facts.com/mars/')[0]
     except BaseException:
-      return: None
+        return None
     # Assign columns and set index of dataframe
     df.columns=['description', 'value']
     df.set_index('description', inplace=True)
