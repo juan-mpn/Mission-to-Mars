@@ -12,7 +12,11 @@ Scrape the data from **_'https://mars.nasa.gov/news/'_**, utilizing Chromedriver
 This was a very challengin project due to all the dependencies and complexities to have everything working in the proper steps cover and writing code with proper identation is key. 
 
 ## **Porfolio:**
+**PNG**:
 **_https://github.com/juan-mpn/Mission-to-Mars/blob/master/apps/portfolio_html.png_**
+
+**HTML:**:
+**_https://github.com/juan-mpn/Mission-to-Mars/blob/master/apps/templates/portfolio_index.html_**
 
 ## **Apps:**
 **_https://github.com/juan-mpn/Mission-to-Mars/blob/master/apps/app.py_**
