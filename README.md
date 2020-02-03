@@ -5,7 +5,7 @@
 Using **Dataframe, splinter and beautiful soup**, srape the **NASA** websites for Mission to Mars Latets news and Hemisphere text and full HD pictures.
 
 ## Objectives 
-The goals for this challenge are for you to:
+The goals for this project are:
 
 Scrape the data from **_'https://mars.nasa.gov/news/'_**, utilizing Chromedriver.exe and inpspect content to later scrape. Also doing the same with Hemisphere information. 
 
