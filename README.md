@@ -11,9 +11,6 @@ Scrape the data from **_'https://mars.nasa.gov/news/'_**, utilizing Chromedriver
 
 This was a very challengin project due to all the dependencies and complexities to have everything working in the proper steps cover and writing code with proper identation is key. 
 
-
-We can also see that the Average Fare per Driver is some times 4 times higher in rural areas, we can see this is the impact of having a lot less drivers available 78 vs 490 for suburban areas and 2,405 for the Urban areas. This is very interesting data.
-
 **Porfolio:**
 **_https://github.com/juan-mpn/Mission-to-Mars/blob/master/apps/portfolio_html.png_**
 
