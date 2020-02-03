@@ -15,13 +15,13 @@ This was a very challengin project due to all the dependencies and complexities 
 We can also see that the Average Fare per Driver is some times 4 times higher in rural areas, we can see this is the impact of having a lot less drivers available 78 vs 490 for suburban areas and 2,405 for the Urban areas. This is very interesting data.
 
 Porfolio:  
-https://github.com/juan-mpn/Mission-to-Mars/apps/portfolio_html.png
+https://github.com/juan-mpn/Mission-to-Mars/blob/master/apps/portfolio_html.png
 
 Apps: 
-https://github.com/juan-mpn/Mission-to-Mars/apps/app.py
-https://github.com/juan-mpn/Mission-to-Mars/apps/scrapping.py
-https://github.com/juan-mpn/Mission-to-Mars/apps/templates/index.html
-https://github.com/juan-mpn/Mission-to-Mars/Mission_to_Mars.ipynb
+https://github.com/juan-mpn/Mission-to-Mars/blob/master/apps/app.py
+https://github.com/juan-mpn/Mission-to-Mars/blob/master/apps/scrapping.py
+https://github.com/juan-mpn/Mission-to-Mars/blob/master/apps/templates/index.html
+https://github.com/juan-mpn/Mission-to-Mars/blob/master/Mission_to_Mars.ipynb
 
 
 
