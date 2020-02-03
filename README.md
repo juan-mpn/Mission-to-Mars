@@ -7,7 +7,7 @@ Using **Dataframe, splinter and beautiful soup**, srape the **NASA** websites fo
 ## Objectives 
 The goals for this project are:
 
-Scrape the data from **_'https://mars.nasa.gov/news/'_**, utilizing Chromedriver.exe and inpspect content to later scrape. Also doing the same with Hemisphere information. 
+Scrape the data from **_'https://mars.nasa.gov/news/'_**, utilizing Chromedriver.exe and inpspect content to later scrape. Also doing the same with Hemisphere information using search results: **_'https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars'_**
 
 This was a very challengin project due to all the dependencies and complexities to have everything working in the proper steps cover and writing code with proper identation is key. 
 
