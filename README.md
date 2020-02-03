@@ -1,5 +1,5 @@
 # Mission-to-Mars
-**_Python Pandas, MongoDB,  Flask, Scraping (splinter and beautiful soup modules)_** from **NASA** webpage content and using bootstrap CSS notation to present it in a professional way. Also, created a portfolio web page that lists contact information, GitHub and Social media links along with different examples showing the work done. 
+**_Python Pandas, MongoDB,  Flask, Scraping (splinter and beautiful soup modules)_** from **NASA** webpage content and using bootstrap CSS notation to present it professionally. I also created a portfolio web page that lists contact information, GitHub and Social media links along with different examples showing the work done. 
 
 ## Background
 Using **Dataframe, splinter and beautiful soup**, scrape the **NASA** websites for Mission to Mars Latest news and Hemisphere text and full HD pictures.
