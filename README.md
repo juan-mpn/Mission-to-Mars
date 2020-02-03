@@ -19,8 +19,11 @@ https://github.com/juan-mpn/Mission-to-Mars/blob/master/apps/portfolio_html.png
 
 Apps: 
 https://github.com/juan-mpn/Mission-to-Mars/blob/master/apps/app.py
-https://github.com/juan-mpn/Mission-to-Mars/blob/master/apps/scrapping.py
+
+https://github.com/juan-mpn/Mission-to-Mars/blob/master/apps/scraping.py
+
 https://github.com/juan-mpn/Mission-to-Mars/blob/master/apps/templates/index.html
+
 https://github.com/juan-mpn/Mission-to-Mars/blob/master/Mission_to_Mars.ipynb
 
 
