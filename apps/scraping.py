@@ -91,7 +91,8 @@ def mars_facts():
     df.columns=['description', 'value']
     df.set_index('description', inplace=True)
     # Convert dataframe into HTML format, add bootstrap
-    return df.to_html()
+    # df.set_option('colheader_justify', 'center')
+    return df.to_html(classes='table table-striped')
 
 def hemispheres(browser):
     # A way to break up long strings
